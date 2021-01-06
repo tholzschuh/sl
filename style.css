@@ -3,11 +3,11 @@
 		body {color:#fff;background:#000}
         
         a:link, a:visited {
-            text-decoration:dotted;
+            text-decoration-style:dotted;
         }
         
         a:hover, a:active {
-            text-decoration:dotted;
+            text-decoration-style:dotted;
             color:#00FF7F
         }
 	}
