@@ -8,9 +8,14 @@
         
         a:hover, a:active {
             text-decoration-style:dotted;
-            color:#00FF7F
         }
 	}
+    a:link, a:visited {
+            text-decoration-style:dotted;
+    }    
+    a:hover, a:active {
+            text-decoration-style:dotted;
+    }
 	body{
 		margin:1em auto;
 		max-width:40em;
