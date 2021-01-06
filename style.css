@@ -12,9 +12,11 @@
 	}
     a:link, a:visited {
             text-decoration-style:dotted;
+            color:#00FF7F;
     }    
     a:hover, a:active {
             text-decoration-style:dotted;
+            color:#00FF7F;
     }
 	body{
 		margin:1em auto;
