@@ -1,9 +1,9 @@
 
 	@media (prefers-color-scheme: dark){
 		body {color:#fff;background:#000}
-		a:link {color:#6F6054}
-		a:hover, a:visited:hover {color:#6F6054}
-		a:visited {color:#6F6054}
+		a:link {color:#00FF7F}
+		a:hover, a:visited:hover {color:#00FF7F}
+		a:visited {color:#00FF7F}
 	}
 	body{
 		margin:1em auto;
